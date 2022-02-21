@@ -8,33 +8,33 @@
 
 ### 模式
 
-* [一致性内核（Consistent Core）](content/consistent-core.md)
+* [一致性内核（Consistent Core）2021.1.5](content/consistent-core.md)
 * 固定分区（Fixed Partitions）
-* [追随者读取（Follower Reads）](content/follower-reads.md)
-* [世代时钟（Generation Clock）](content/generation-clock.md)
-* [Gossip 传播（Gossip Dissemination）](content/gossip-dissemination.md)
-* [心跳（HeartBeat）](content/heartbeat.md)
-* [高水位标记（High-Water Mark）](content/high-water-mark.md)
-* [混合时钟（Hybrid Clock）](content/hybrid-clock.md)
-* [幂等接收者（Idempotent Receiver）](content/idempotent-receiver.md)
+* [追随者读取（Follower Reads）2021.7.1](content/follower-reads.md)
+* [世代时钟（Generation Clock）2020.8.20](content/generation-clock.md)
+* [Gossip 传播（Gossip Dissemination）2021.6.17](content/gossip-dissemination.md)
+* [心跳（HeartBeat）2020.8.20](content/heartbeat.md)
+* [高水位标记（High-Water Mark）2020.8.5](content/high-water-mark.md)
+* [混合时钟（Hybrid Clock）2021.6.24](content/hybrid-clock.md)
+* [幂等接收者（Idempotent Receiver）2021.1.26](content/idempotent-receiver.md)
 * 键值与值（Key And Value）
-* [Lamport 时钟（Lamport Clock）](content/lamport-clock.md)
-* [领导者和追随者（Leader and Followers）](content/leader-and-followers.md)
-* [租约（Lease）](content/lease.md)
-* [低水位标记（Low-Water Mark）](content/low-water-mark.md)
+* [Lamport 时钟（Lamport Clock）2021.6.23](content/lamport-clock.md)
+* [领导者和追随者（Leader and Followers）2020.8.8](content/leader-and-followers.md)
+* [租约（Lease）2021.1.13](content/lease.md)
+* [低水位标记（Low-Water Mark）2020.8.18](content/low-water-mark.md)
 * Paxos
-* [Quorum](content/quorum.md)
-* [复制日志（Replicated Log）](content/replicated-log.md)
+* [Quorum 2020.8.11](content/quorum.md)
+* [复制日志（Replicated Log）2022.1.11](content/replicated-log.md)
 * 批量请求（Request Batch）
-* [请求管道（Request Pipeline）](content/request-pipeline.md)
-* [分段日志（Segmented Log）](content/segmented-log.md)
-* [单一 Socket 通道（Single Socket Channel）](content/single-socket-channel.md)
-* [单一更新队列（Singular Update Queue）](content/singular-update-queue.md)
-* [状态监控（State Watch）](content/state-watch.md)
+* [请求管道（Request Pipeline）2020.8.20](content/request-pipeline.md)
+* [分段日志（Segmented Log）2020.8.13](content/segmented-log.md)
+* [单一 Socket 通道（Single Socket Channel）2020.8.19](content/single-socket-channel.md)
+* [单一更新队列（Singular Update Queue）2020.8.25](content/singular-update-queue.md)
+* [状态监控（State Watch）2021.1.19](content/state-watch.md)
 * 两阶段提交（Two Phase Commit）
-* [版本向量（Version Vector）](content/version-vector.md)
-* [有版本的值（Versioned Values）](content/versioned-value.md)
-* [预写日志（Write-Ahead Log）](content/write-ahead-log.md)
+* [版本向量（Version Vector）2021.6.29](content/version-vector.md)
+* [有版本的值（Versioned Values）2021.6.22](content/versioned-value.md)
+* [预写日志（Write-Ahead Log）2020.8.12](content/write-ahead-log.md)
 
 ## 术语表
 
